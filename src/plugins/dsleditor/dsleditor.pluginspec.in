@@ -1,0 +1,11 @@
+<plugin name=\"dsleditor\" version=\"$$DSLEDITOR_VERSION\" compatVersion=\"$$DSLEDITOR_VERSION\">
+  <vendor>ifak</vendor>
+  <copyright>(C) ifak</copyright>
+  <license>LGPL</license>
+  <description>dsl editor plugin</description>
+  <url></url>
+  <dependencyList>
+    <dependency name=\"TextEditor\" version=\"$$QTCREATOR_VERSION\"/>
+  </dependencyList>
+</plugin>
+
