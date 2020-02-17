@@ -1,4 +1,5 @@
-#App Creator (Modified fork of QtCreator)
+App Creator (Modified fork of QtCreator)
+==========
 App Creator is a modified fork of the Qt Creator IDE. It is the basis of [Mbt Creator](https://github.com/ifak/mbtcreator), an academic and non-commercial tool for model based testing.
 This modified fork of Qt Creator is licensed under LGPLv2.1, the same license as the original source code and as required by Qt.
 
